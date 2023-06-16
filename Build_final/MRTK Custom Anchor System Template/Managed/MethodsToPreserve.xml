@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="activateMainScene">
+			<method name="ActivateScene"/>
+			<method name="ActivateScene"/>
+		</type>
+		<type fullname="Microsoft.MixedReality.Toolkit.Examples.Demos.centerOnPointerEvent">
+			<method name="Center"/>
+		</type>
+	</assembly>
+</linker>

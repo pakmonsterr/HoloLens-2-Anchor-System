@@ -1,0 +1,1 @@
+C:\MRTK Custom Anchor System Template\Build_final\MRTK Custom Anchor System Template\MRTK Custom Anchor System Template.vcxproj;arm64

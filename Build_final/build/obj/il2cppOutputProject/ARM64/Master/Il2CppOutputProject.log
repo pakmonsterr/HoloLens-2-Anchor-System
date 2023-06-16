@@ -1,0 +1,15 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 17.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\link.exe
+  	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\cl.exe
+  
+  	Output directory: C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master
+  	Cache directory: C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master
+  Assembly-CSharp.cpp
+  ObjectFiles: 617 of which compiled: 1
+  	Time Compile: 221 milliseconds Assembly-CSharp.cpp
+  Total compilation time: 1206 milliseconds.
+  Creating library C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_6CCA6B6E30FD1E05AD271E6460EECDC9\GameAssembly.lib and object C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_6CCA6B6E30FD1E05AD271E6460EECDC9\GameAssembly.exp
+  Total link time: 8262 milliseconds.
+  Cleaned up 2 object files.

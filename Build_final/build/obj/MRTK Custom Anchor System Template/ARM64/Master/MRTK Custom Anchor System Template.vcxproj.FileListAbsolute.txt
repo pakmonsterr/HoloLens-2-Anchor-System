@@ -1,0 +1,24 @@
+C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\resources.pri
+C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\AppxManifest.xml
+C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.build.appxrecipe
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.AssemblyReference.cache
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.CopyComplete
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\ResourceHandlingTask.state
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.GenerateResource.Cache
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\priconfig.xml
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\priconfig.xml.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\unfiltered.layout.resfiles
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\unfiltered.layout.resfiles.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\filtered.layout.resfiles
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\filtered.layout.resfiles.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\excluded.layout.resfiles
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\excluded.layout.resfiles.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\resources.resfiles
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\resources.resfiles.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\pri.resfiles
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\pri.resfiles.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\qualifiers.txt
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\qualifiers.txt.intermediate
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MultipleQualifiersPerDimensionFound.txt
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\ProjectArchitectures.txt
+C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\.winmd_cache\$UnityPlayer.winmd_637946994060000000.json
