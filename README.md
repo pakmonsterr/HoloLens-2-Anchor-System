@@ -8,7 +8,7 @@ SETUP:
 USAGE:
 - using your hand, line the ray up with wherever you want the origin of your main scene to exist
 - when the calibration confirmation button pops up, you can continue to place the X until you click the button (it often takes multiple tries to get the X where you want it)
-- when the X is where you want it to be, press the button to confirm
+- when the X is where you want it to be, *align your head rotation with where you want the positive z-axis of your main scene to face* and press the button to confirm
 
 SYSTEM SPECS:
 - HoloLens 2
