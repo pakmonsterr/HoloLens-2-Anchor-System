@@ -1,4 +1,5 @@
 using Microsoft.MixedReality.Toolkit.Input;
+using Microsoft.MixedReality.Toolkit;
 using UnityEngine;
 
 
@@ -19,8 +20,9 @@ public class activateMainScene : MonoBehaviour
         mainScene.transform.eulerAngles = new Vector3 (0, mainCamera.transform.eulerAngles.y, 0);
         mainScene.SetActive(true);
 
-        // deactivate the canvas and calibration objects
+        // deactivate the canvas, spatial awareness system,  and calibration objects
         buttonCanvas.SetActive(false);
         allCalib.SetActive(false);
+        CoreServices.SpatialAwarenessSystem.Disable();
     }
 }

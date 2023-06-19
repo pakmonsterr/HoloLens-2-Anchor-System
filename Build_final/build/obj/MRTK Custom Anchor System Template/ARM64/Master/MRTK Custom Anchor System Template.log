@@ -1,6 +1,8 @@
-﻿  App.cpp
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
   UnityGenerated.cpp
-     Creating library C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.lib and object C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.exp
+     Creating library C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.lib and object C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.exp
   Generating code
   Finished generating code
-  MRTK Custom Anchor System Template.vcxproj -> C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.exe
+  MRTK Custom Anchor System Template.vcxproj -> C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.exe

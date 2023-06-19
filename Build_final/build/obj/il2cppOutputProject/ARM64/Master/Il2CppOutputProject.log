@@ -4,12 +4,1272 @@
   	Msvc Linker Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\link.exe
   	Msvc Compiler Path: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\ARM64\cl.exe
   
-  	Output directory: C:\MRTK Custom Anchor System Template\Build_final\build\bin\ARM64\Master
-  	Cache directory: C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master
+  	Output directory: C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master
+  	Cache directory: C:\holoLens2AnchorSystem\Build_final\build\obj\il2cppOutputProject\ARM64\Master
+  pch-c.c
+  pch-cpp.cpp
+  mscorlib_CodeGen.c
+  Il2CppCCalculateFieldValues.cpp
+  Il2CppGenericInstDefinitions.c
+  Il2CppCCalculateFieldValues1.cpp
+  Il2CppCCalculateTypeValues.cpp
+  Il2CppInteropDataTable.cpp
+  Il2CppGenericMethodPointerTable.c
+  Il2CppMetadataUsage.c
+  Il2CppTypeDefinitions.c
+  GenericMethods5.cpp
+  Generics49.cpp
+  Generics26.cpp
+  GenericMethods12.cpp
+  Generics25.cpp
+  GenericMethods2.cpp
+  GenericMethods.cpp
+  Generics44.cpp
+  Unity.XR.ARSubsystems.cpp
+  Generics50.cpp
+  Il2CppCCalculateTypeValues1.cpp
+  Generics41.cpp
+  Generics43.cpp
+  Generics46.cpp
+  Generics51.cpp
+  Generics37.cpp
+  Generics14.cpp
+  Unity.TextMeshPro3.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro3.cpp(19550): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics27.cpp
+  Generics48.cpp
+  Unity.XR.ARFoundation.cpp
+  Microsoft.MixedReality.Toolkit4.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit4.cpp(8157): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics74.cpp
+  GenericMethods10.cpp
+  Il2CppGenericAdjustorThunkTable.c
+  GenericMethods13.cpp
+  Generics53.cpp
+  Generics45.cpp
+  Unity.InputSystem9.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem9.cpp(39240): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics67.cpp
+  UnityEngine.UIElementsModule2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule2.cpp(16829): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics66.cpp
+  Generics54.cpp
+  Microsoft.MixedReality.Toolkit.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.cpp(17296): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppInvokerTable.cpp
+  Generics1.cpp
+  Generics11.cpp
+  Il2CppPCCWMethods.cpp
+  Unity.InputSystem8.cpp
+  Unity.InputSystem_CodeGen.c
+  GenericMethods4.cpp
+  GenericMethods16.cpp
+  GenericMethods9.cpp
+  Microsoft.MixedReality.OpenXR.cpp
+  Il2CppGenericClassTable.c
+  Unity.InputSystem.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem.cpp
+  Unity.InputSystem2.cpp
+  Microsoft.MixedReality.Toolkit3.cpp
+  Generics75.cpp
+  Generics76.cpp
+  Generics15.cpp
+  Unity.InputSystem7.cpp
+  Il2CppCCWs126.cpp
+  System.cpp
+  Microsoft.MixedReality.Toolkit.SDK7.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK7.cpp(33750): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.InputSystem6.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem6.cpp(33284): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods8.cpp
+  UnityEngine.CoreModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule.cpp(16751): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib17.cpp
+  GenericMethods14.cpp
+  Generics12.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics12.cpp(19851): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.InputSystem4.cpp
+  Unity.XR.OpenXR.cpp
+  UnityEngine.UIElementsModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule.cpp(37327): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Unity.InputSystem5.cpp
+  Generics13.cpp
+  GenericMethods1.cpp
+  Generics79.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics79.cpp(13588): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics2.cpp
+  Il2CppGenericMethodTable.c
+  Generics.cpp
+  UnityEngine.UIElementsModule3.cpp
+  Generics29.cpp
+  Generics80.cpp
+  Generics38.cpp
+  Microsoft.MixedReality.Toolkit.SDK1.cpp
+  Microsoft.MixedReality.Toolkit.SDK5.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK5.cpp(31912): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule7.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule7.cpp(14718): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule4.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule4.cpp(9681): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule5.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule5.cpp(31871): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics65.cpp
+  UnityEngine.CoreModule1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.CoreModule1.cpp(9978): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics70.cpp
+  Generics81.cpp
+  GenericMethods15.cpp
+  mscorlib9.cpp
+  Generics28.cpp
+  Generics71.cpp
+  Microsoft.MixedReality.Toolkit.SDK6.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK6.cpp(30896): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics35.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics35.cpp(22030): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\mscorlib2.cpp(27531): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.UIElementsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.SDK4.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK4.cpp(20690): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK2.cpp
+  GenericMethods6.cpp
+  Generics47.cpp
+  mscorlib16.cpp
+  Microsoft.MixedReality.Toolkit1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit1.cpp(25646): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib21.cpp
+  Generics52.cpp
+  Unity.InputSystem10.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.InputSystem10.cpp(29514): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK3.cpp
+  Generics30.cpp
+  Generics16.cpp
+  Generics3.cpp
+  Generics9.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics9.cpp(30357): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics7.cpp
+  Il2CppCCWs111.cpp
+  mscorlib15.cpp
+  Unity.InputSystem1.cpp
+  GenericMethods11.cpp
+  Generics10.cpp
+  UnityEngine.UI.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI.cpp(19305): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics4.cpp
+  Unity.TextMeshPro5.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro5.cpp(16264): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit2.cpp(16158): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics42.cpp
+  UnityEngine.UIElementsModule1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule1.cpp(8383): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib14.cpp
+  Unity.TextMeshPro4.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro4.cpp(19209): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib8.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\mscorlib8.cpp(12819): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics8.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics8.cpp(28232): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCalculateFieldValues2.cpp
+  Generics5.cpp
+  Il2CppGenericMethodDefinitions.c
+  Generics6.cpp
+  mscorlib5.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\mscorlib5.cpp(8287): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.SDK.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.SDK.cpp(29676): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnresolvedVirtualCallStubs.cpp
+  UnityEngine.UI2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI2.cpp(5367): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib1.cpp
+  UnityEngine.UIElementsModule11.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule11.cpp(21855): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics78.cpp
+  UnityEngine.UIElementsModule8.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule8.cpp(19901): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs110.cpp
+  Generics82.cpp
+  Generics72.cpp
+  Generics40.cpp
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  UnityEngine.UI3.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI3.cpp(9531): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics73.cpp
+  Generics31.cpp
+  UnityEngine.UIElementsModule9.cpp
+  UnityEngine.UI1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UI1.cpp(29715): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics34.cpp
+  Generics39.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation.cpp
+  mscorlib7.cpp
+  Il2CppCCWs147.cpp
+  UnityEngine.TextCoreTextEngineModule2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule2.cpp(7503): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics33.cpp
+  Generics32.cpp
+  Generics77.cpp
+  mscorlib6.cpp
+  mscorlib20.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\mscorlib20.cpp(10706): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  mscorlib11.cpp
+  Generics68.cpp
+  Unity.TextMeshPro2.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro2.cpp(25191): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.CoreModule2.cpp
+  Generics83.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics83.cpp(21783): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics36.cpp
+  mscorlib13.cpp
+  Unity.XR.ARFoundation1.cpp
+  mscorlib4.cpp
+  UnityEngine.UIElementsModule10.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule10.cpp(24434): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics84.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics84.cpp(26605): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  GenericMethods3.cpp
+  System3.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\System3.cpp(14323): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  Generics69.cpp
+  mscorlib18.cpp
+  Unity.InputSystem3.cpp
+  mscorlib.cpp
+  mscorlib10.cpp
+  mscorlib3.cpp
+  UnityEngine.UIElementsModule6.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.UIElementsModule6.cpp(8623): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics64.cpp
+  Generics85.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Generics85.cpp(24515): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Mono.Security.cpp
+  Generics22.cpp
+  UnityEngine.IMGUIModule.cpp
+  Generics19.cpp
+  GenericMethods7.cpp
+  Generics62.cpp
+  Generics57.cpp
+  Generics56.cpp
+  Generics63.cpp
+  Generics24.cpp
+  Il2CppCCWs130.cpp
+  Il2CppCCWs148.cpp
+  Il2CppCCWs125.cpp
+  Generics61.cpp
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR.cpp
+  Generics23.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  Generics59.cpp
+  Generics18.cpp
+  Generics60.cpp
+  System2.cpp
+  Il2CppCCWs135.cpp
+  Generics58.cpp
+  Generics21.cpp
+  Generics17.cpp
+  Generics20.cpp
+  Microsoft.MixedReality.Toolkit.Gltf.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Gltf.cpp(5182): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics55.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation.cpp
+  Il2CppCCWs139.cpp
+  Il2CppCCTypeValuesTable.cpp
+  mscorlib12.cpp
+  Il2CppCCWs8.cpp
+  Il2CppCCWs131.cpp
+  WindowsRuntimeMetadata.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.cpp
+  UnityEngine.UIElementsModule12.cpp
+  System.Runtime.WindowsRuntime.cpp
+  Il2CppCCWs137.cpp
+  System1.cpp
+  System.Numerics.cpp
+  Il2CppCCWs141.cpp
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem.cpp
+  Unity.XR.ARSubsystems_CodeGen.c
+  Il2CppCCWs145.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.cpp
+  Unity.XR.ARSubsystems1.cpp
+  Il2CppCCWs11.cpp
+  UnityEngine.XRModule.cpp
+  Il2CppCCWs69.cpp
+  Il2CppCCWs102.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.cpp
+  Unity.XR.OpenXR1.cpp
+  Il2CppCCWs101.cpp
+  Il2CppCCWs138.cpp
+  Il2CppCCWs55.cpp
+  Il2CppCCWs56.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.cpp
+  UnityEngine.UI_CodeGen.c
+  I18N.CJK.cpp
+  Il2CppCCWs58.cpp
+  Il2CppCCWs60.cpp
+  System4.cpp
+  Il2CppCCWs68.cpp
+  Il2CppRgctxTable.c
+  UnityEngine.AndroidJNIModule.cpp
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp(4602): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  System_CodeGen.c
+  Il2CppCCWs134.cpp
+  Il2CppCCWs66.cpp
+  Il2CppCCWs7.cpp
+  I18N.cpp
+  Il2CppCCWs103.cpp
+  Il2CppCCWs59.cpp
+  dictionary.c
+  Il2CppCCWs161.cpp
+  Il2CppCCWs57.cpp
+  Il2CppCCWs43.cpp
+  Il2CppCCWs106.cpp
+  Il2CppCCWs108.cpp
+  Unity.TextMeshPro_CodeGen.c
+  Il2CppCCWs54.cpp
+  Il2CppCCWs154.cpp
+  Il2CppCCWs42.cpp
+  Il2CppCCWs112.cpp
+  Mono.Security1.cpp
+  char-conversions.cpp
+  Il2CppCCWs107.cpp
+  Il2CppCCWs133.cpp
+  Il2CppCCWs105.cpp
+  Il2CppCCWs40.cpp
+  Il2CppCCWs41.cpp
+  UnityEngine.UnityWebRequestModule.cpp
+  mscorlib22.cpp
+  Il2CppCCWs149.cpp
+  Il2CppCCWs146.cpp
+  Il2CppCCWs.cpp
+  Il2CppCCWs39.cpp
+  UnityEngine.TextCoreTextEngineModule1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule1.cpp(8155): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs6.cpp
+  Il2CppCCWs144.cpp
+  Il2CppCCFieldValuesTable.cpp
+  Microsoft.MixedReality.Toolkit5.cpp
+  UnityEngine.TextCoreTextEngineModule3.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule3.cpp(6013): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Generics86.cpp
+  System.Core.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem1.cpp
+  Unity.XR.ARFoundation_CodeGen.c
+  Il2CppCCWs140.cpp
+  Il2CppCCWs160.cpp
+  Il2CppCCWs120.cpp
+  Unity.InputSystem11.cpp
+  Unity.TextMeshPro.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro.cpp(7820): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs142.cpp
+  mscorlib19.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\mscorlib19.cpp(4390): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs122.cpp
+  Il2CppCCWs104.cpp
+  Il2CppCCWs10.cpp
+  Il2CppCCWs124.cpp
+  Il2CppCCWs121.cpp
+  UnityEngine.UIElementsNativeModule.cpp
+  Il2CppCCWs123.cpp
+  Il2CppCCWs9.cpp
+  Il2CppCCWs109.cpp
+  Unity.TextMeshPro1.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\Unity.TextMeshPro1.cpp(7935): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.cpp
+  I18N.Rare1.cpp
+  I18N.Rare.cpp
+  Il2CppCCWs156.cpp
+  Il2CppCCWs65.cpp
+  I18N.Rare2.cpp
+  Il2CppCCWs150.cpp
+  Il2CppCCWs159.cpp
+  Il2CppCCWs129.cpp
+  Il2CppCCWs119.cpp
+  I18N.West.cpp
+  Il2CppCCWs5.cpp
+  UnityEngine.TextCoreTextEngineModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextCoreTextEngineModule.cpp(6176): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs67.cpp
+  Il2CppCCWs48.cpp
+  Il2CppCCWs46.cpp
+  Il2CppCCWs64.cpp
+  Il2CppCCWs45.cpp
+  I18N.Rare4.cpp
+  Il2CppCCWs47.cpp
+  Unity.XR.OpenXR_CodeGen.c
+  Il2CppCCWs44.cpp
+  Il2CppCCWs152.cpp
+  UnityEngine.PhysicsModule.cpp
+  Il2CppCCWs49.cpp
+  Il2CppCCWs128.cpp
+  I18N.Other.cpp
+  Il2CppCCWs51.cpp
+  I18N.Rare3.cpp
+  Microsoft.MixedReality.OpenXR_CodeGen.c
+  UnityEngine.TextCoreFontEngineModule.cpp
+  GenericMethods17.cpp
+  I18N.West1.cpp
+  UnityEngine.UIModule.cpp
+  Il2CppCCWs157.cpp
+  Il2CppCCWs2.cpp
+  Il2CppCCWs3.cpp
+  Il2CppCCWs50.cpp
+  Il2CppCCWs158.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  Il2CppCCWs4.cpp
+  Il2CppCCWs12.cpp
+  Il2CppCCWs153.cpp
+  Unity.TextMeshPro6.cpp
+  I18N.MidEast.cpp
+  UnityEngine.AnimationModule.cpp
+  Il2CppCCWs136.cpp
+  Unity.XR.Management.cpp
+  UnityEngine.TextRenderingModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TextRenderingModule.cpp(2746): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  UnityEngine.TerrainModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.TerrainModule.cpp(3623): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs61.cpp
+  Il2CppCCWs127.cpp
+  Il2CppCCWs118.cpp
+  Il2CppCCWs116.cpp
+  Il2CppCCWs113.cpp
+  Il2CppCCWs117.cpp
+  Il2CppCCWs115.cpp
+  Il2CppCCWs114.cpp
+  Il2CppCCWs63.cpp
+  System.Core_CodeGen.c
+  UnityEngine.SubsystemsModule.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.cpp
+  UnityEngine.AudioModule.cpp
+  UnityEngine.Physics2DModule.cpp
+  Microsoft.MixedReality.Toolkit.Async.cpp
+  UnityEngine.ParticleSystemModule.cpp
+  Il2CppCCWs70.cpp
+  UnityEngine.InputLegacyModule.cpp
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4305: 'return': truncation from '__int64' to 'T'
+          with
+          [
+              T=int32_t
+          ]
+  C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\Source\il2cppOutput\UnityEngine.InputLegacyModule.cpp(2142): note: see reference to function template instantiation 'T il2cpp_codegen_cast_double_to_int<int32_t>(double)' being compiled
+          with
+          [
+              T=int32_t
+          ]
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\libil2cpp\codegen\il2cpp-codegen-common-small.h(34): warning C4309: 'return': truncation of constant value
+  Il2CppCCWs71.cpp
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking.cpp
+  Il2CppCCWs74.cpp
+  Il2CppCCWs38.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding.cpp
+  Il2CppCCWs155.cpp
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem.cpp
+  Il2CppCCWs100.cpp
+  Il2CppCCWs1.cpp
+  Il2CppCCWs89.cpp
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.cpp
+  WindowsRuntimeMetadata_CodeGen.c
+  Il2CppCCWs99.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation_CodeGen.c
+  UnityEngine.IMGUIModule_CodeGen.c
+  UnityEngine.TextCoreTextEngineModule_CodeGen.c
+  Unity.XR.OpenXR.Features.MockRuntime.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  UnityEngine.SpatialTracking.cpp
+  Il2CppCCWs86.cpp
+  Il2CppGenericComDefinitions.cpp
+  Il2CppCCWs93.cpp
+  Il2CppCCWs85.cpp
+  Il2CppCCWs78.cpp
+  Il2CppCCWs72.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  Il2CppCCWs82.cpp
+  Il2CppCCWs92.cpp
+  Il2CppCCWs81.cpp
+  Il2CppCCWs83.cpp
+  Il2CppCCWs79.cpp
+  Il2CppCCWs88.cpp
+  Il2CppCCWs91.cpp
+  UnityEngine.TilemapModule.cpp
+  Il2CppCCWs90.cpp
+  Il2CppCCWs84.cpp
+  Il2CppCCWs97.cpp
+  Il2CppCCWs94.cpp
+  Il2CppCCWs96.cpp
+  Mono.Security_CodeGen.c
+  dictionary_hash.c
+  Il2CppCCWs80.cpp
+  Il2CppCCWs73.cpp
   Assembly-CSharp.cpp
-  ObjectFiles: 617 of which compiled: 1
-  	Time Compile: 221 milliseconds Assembly-CSharp.cpp
-  Total compilation time: 1206 milliseconds.
-  Creating library C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_6CCA6B6E30FD1E05AD271E6460EECDC9\GameAssembly.lib and object C:\MRTK Custom Anchor System Template\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_6CCA6B6E30FD1E05AD271E6460EECDC9\GameAssembly.exp
-  Total link time: 8262 milliseconds.
-  Cleaned up 2 object files.
+  Il2CppCCWs143.cpp
+  Il2CppCCWs87.cpp
+  Il2CppCCWs75.cpp
+  Il2CppCCWs95.cpp
+  __Generated.cpp
+  Il2CppCCWs98.cpp
+  Il2CppCCWs77.cpp
+  Il2CppCCWs76.cpp
+  Il2CppCCWs132.cpp
+  I18N.Rare5.cpp
+  UnityEngine.VFXModule.cpp
+  UnityEngine.UnityAnalyticsModule.cpp
+  Il2CppCCWs151.cpp
+  deflate.c
+  UnityEngine.UIElementsNativeModule_CodeGen.c
+  Il2CppCCWs62.cpp
+  UnityEngine.XRModule_CodeGen.c
+  I18N.Rare_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation_CodeGen.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  __Generated_CodeGen.c
+  Il2CppCCWs27.cpp
+  I18N.CJK_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem_CodeGen.c
+  UnityEngine.VideoModule.cpp
+  Microsoft.MixedReality.Toolkit.Providers.OpenXR_CodeGen.c
+  Il2CppCCWs19.cpp
+  Unity.XR.OpenXR.Features.ConformanceAutomation.cpp
+  Il2CppCCWs53.cpp
+  Il2CppCCWs52.cpp
+  UnityEngine.TextCoreFontEngineModule_CodeGen.c
+  Il2CppCCWs17.cpp
+  Il2CppCCWs26.cpp
+  Microsoft.MixedReality.Toolkit.Gltf_CodeGen.c
+  Il2CppCCWs24.cpp
+  UnityEngine.PhysicsModule_CodeGen.c
+  Il2CppCCWs34.cpp
+  Il2CppCCWs35.cpp
+  Il2CppCCWs28.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService_CodeGen.c
+  Il2CppCCWs18.cpp
+  UnityEngine.InputModule.cpp
+  brotli_bit_stream.c
+  trees.c
+  Il2CppCCWs37.cpp
+  Il2CppCCWs16.cpp
+  Il2CppCCWs13.cpp
+  inflate.c
+  Il2CppCCWs33.cpp
+  Il2CppCCWs23.cpp
+  Il2CppCCWs31.cpp
+  Il2CppCCWs15.cpp
+  Il2CppCCWs32.cpp
+  Il2CppCCWs29.cpp
+  Il2CppCCWs22.cpp
+  UnityEngine.SubsystemsModule_CodeGen.c
+  Il2CppCCWs30.cpp
+  Il2CppCCWs25.cpp
+  Il2CppCCWs14.cpp
+  Il2CppCCWs21.cpp
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  System.Numerics_CodeGen.c
+  Unity.XR.OpenXR.Features.RuntimeDebugger.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared_CodeGen.c
+  Il2CppCCWs20.cpp
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  Il2CppCCWs36.cpp
+  xamarin_getifaddrs.c
+  I18N_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsSceneUnderstanding_CodeGen.c
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  System.Configuration.cpp
+  UnityEngine.JSONSerializeModule.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  encode.c
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  I18N.West_CodeGen.c
+  decode.c
+  UnityEngine.AssetBundleModule.cpp
+  I18N.Other_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput_CodeGen.c
+  UnityEngine.InputLegacyModule_CodeGen.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  backward_references_hq.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  il2cpp-mono-api.cpp
+  UnityEngine.AudioModule_CodeGen.c
+  gzread.c
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(319): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(400): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(472): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  gzwrite.c
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(212): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(232): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\holoLens2AnchorSystem\Build_final\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(371): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UnityEngine.TextRenderingModule_CodeGen.c
+  infback.c
+  Unity.XR.OpenXR.Features.MockRuntime_CodeGen.c
+  System.Runtime.WindowsRuntime.UI.Xaml.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics_CodeGen.c
+  UnityEngine.AIModule.cpp
+  metablock.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  gzlib.c
+  Il2CppCodeRegistration.cpp
+  entropy_encode.c
+  crc32.c
+  UnityEngine.TilemapModule_CodeGen.c
+  UnityEngine.VRModule.cpp
+  UnityEngine.SpatialTracking_CodeGen.c
+  inftrees.c
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking_CodeGen.c
+  inffast.c
+  I18N.MidEast_CodeGen.c
+  UnityEngine.TerrainModule_CodeGen.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  UnityEngine.DirectorModule.cpp
+  UnityEngine.VFXModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem_CodeGen.c
+  Microsoft.MixedReality.Toolkit.SDK8.cpp
+  huffman.c
+  Unity.XR.OpenXR.Features.ConformanceAutomation_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem_CodeGen.c
+  zutil.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  UnityEngine.ImageConversionModule.cpp
+  UnityEngine.InputModule_CodeGen.c
+  System.Configuration_CodeGen.c
+  compress_fragment_two_pass.c
+  literal_cost.c
+  il2cpp-api.cpp
+  memory.c
+  Assembly-CSharp_CodeGen.c
+  state.c
+  Unity.XR.OpenXR.Features.RuntimeDebugger_CodeGen.c
+  UnityEngine.IMGUIModule1.cpp
+  adler32.c
+  System.Xml.cpp
+  block_splitter.c
+  UnityEngine.GridModule.cpp
+  static_dict.c
+  UnityEngine.SpriteShapeModule.cpp
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  histogram.c
+  uncompr.c
+  System.Runtime.WindowsRuntime.UI.Xaml_CodeGen.c
+  compress.c
+  utf8_util.c
+  UnityAdsStubs.cpp
+  UnityEngine.DirectorModule_CodeGen.c
+  UnityEngine.VRModule_CodeGen.c
+  krait_signal_handler.c
+  UnityEngine.ImageConversionModule_CodeGen.c
+  UnityEngine.AIModule_CodeGen.c
+  UnityEngine.GridModule_CodeGen.c
+  bit_reader.c
+  Il2CppMetadataRegistration.c
+  cluster.c
+  bit_cost.c
+  System.Xml_CodeGen.c
+  System.IO.Compression.cpp
+  netstandard.cpp
+  System.Numerics.Vectors.cpp
+  System.Runtime.cpp
+  System.Runtime.InteropServices.WindowsRuntime.cpp
+  System.ObjectModel.cpp
+  il2cpp-benchmark-support.cpp
+  UnityEngine.cpp
+  gzclose.c
+  System.Runtime.InteropServices.WindowsRuntime_CodeGen.c
+  UnityEngine.AssetBundleModule_CodeGen.c
+  UnityEngine.SpriteShapeModule_CodeGen.c
+  System.Numerics.Vectors_CodeGen.c
+  System.IO.Compression_CodeGen.c
+  netstandard_CodeGen.c
+  System.Runtime_CodeGen.c
+  System.ObjectModel_CodeGen.c
+  compress_fragment.c
+  backward_references.c
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_debugger.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_utils.cpp
+  Lump_libil2cpp_vm-utils.cpp
+  Lump_libil2cpp_codegen.cpp
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_metadata.cpp
+  gc.c
+  Lump_libil2cpp_icalls.cpp
+  Lump_libil2cpp_mono.cpp
+  Lump_libil2cpp_os.cpp
+  Lump_libil2cpp_vm.cpp
+  ObjectFiles: 617 of which compiled: 617
+  	Time Compile: 14219 milliseconds Il2CppCCWs126.cpp
+  	Time Compile: 12188 milliseconds mscorlib19.cpp
+  	Time Compile: 11951 milliseconds Unity.TextMeshPro1.cpp
+  	Time Compile: 11405 milliseconds System2.cpp
+  	Time Compile: 11354 milliseconds Unity.TextMeshPro.cpp
+  	Time Compile: 11010 milliseconds UnityEngine.TextCoreTextEngineModule.cpp
+  	Time Compile: 10752 milliseconds Il2CppPCCWMethods.cpp
+  	Time Compile: 10421 milliseconds UnityEngine.TextCoreTextEngineModule1.cpp
+  	Time Compile: 10404 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 10258 milliseconds Il2CppCCWs111.cpp
+  Total compilation time: 59955 milliseconds.
+  Creating library C:\holoLens2AnchorSystem\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_C96CE3E2792AAC26E019EC5A78164680\GameAssembly.lib and object C:\holoLens2AnchorSystem\Build_final\build\obj\il2cppOutputProject\ARM64\Master\linkresult_C96CE3E2792AAC26E019EC5A78164680\GameAssembly.exp
+  Total link time: 8209 milliseconds.
+  Cleaned up 622 object files.

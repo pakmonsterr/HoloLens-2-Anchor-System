@@ -2,31 +2,31 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Data">
-      <UniqueIdentifier>{68ed9bc2-5b64-4c2e-922f-54a3de4eb465}</UniqueIdentifier>
+      <UniqueIdentifier>{545654f7-4baf-4991-bc79-a7978cb3a5ce}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\Resources">
-      <UniqueIdentifier>{227f6352-eb9c-4602-83ed-49fd974fc6cc}</UniqueIdentifier>
+      <UniqueIdentifier>{d5652e60-7b31-46ce-bab9-e4893c7624f5}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets">
-      <UniqueIdentifier>{5ae8d734-c981-49c4-82ae-693f76d62950}</UniqueIdentifier>
+      <UniqueIdentifier>{bac9eb5a-57ca-4d95-a887-562f3c80f4e9}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\Metadata">
-      <UniqueIdentifier>{90380520-e8b5-4a1c-b04b-8c6e354feb23}</UniqueIdentifier>
+      <UniqueIdentifier>{2653f00c-d3d6-4c8b-ba27-a2b80eedaf4e}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\Resources">
-      <UniqueIdentifier>{2e172e27-4958-45ac-a8bd-05cd20ef05f7}</UniqueIdentifier>
+      <UniqueIdentifier>{baa3db46-e8df-4a8c-a179-679d95bad1ed}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\UnitySubsystems\MicrosoftOpenXRPlugin">
-      <UniqueIdentifier>{6b1cf213-27b8-4b4f-9d11-67992036c722}</UniqueIdentifier>
+      <UniqueIdentifier>{8ff5f5b0-6b6c-4ce2-90b4-b6f48781c985}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\UnitySubsystems\UnityOpenXR">
-      <UniqueIdentifier>{4a6f09f2-1ebf-4977-a893-a0738e97950e}</UniqueIdentifier>
+      <UniqueIdentifier>{9275547e-c544-4f3a-8ec4-10ae886fee55}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data">
-      <UniqueIdentifier>{a14c6317-7c56-4a21-8535-4b8e1b77a406}</UniqueIdentifier>
+      <UniqueIdentifier>{89afd0d1-8a6e-4ea6-ba5e-d24b2d9ff0a2}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\UnitySubsystems">
-      <UniqueIdentifier>{7518b3a3-ad1b-444d-ab59-5d8139ac7c05}</UniqueIdentifier>
+      <UniqueIdentifier>{d6b1d2b7-74e9-4696-b1ca-88d11d7bf23a}</UniqueIdentifier>
     </Filter>
     <Resource Include="$(MSBuildThisFileDirectory)Resource.res" />
     <None Include="$(MSBuildThisFileDirectory)StoreManifest.xml" />
@@ -96,14 +96,12 @@
       <Filter>Data\UnitySubsystems\UnityOpenXR</Filter>
     </None>
     <None Include="$(MSBuildThisFileDirectory)AudioPluginMicrosoftSpatializerCrossPlatform.dll" />
-    <None Include="$(MSBuildThisFileDirectory)AudioPluginMicrosoftSpatializerCrossPlatform.pdb" />
     <None Include="$(MSBuildThisFileDirectory)HrtfDsp.dll" />
-    <None Include="$(MSBuildThisFileDirectory)HrtfDsp.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)MicrosoftOpenXRPlugin.dll" />
-    <None Include="$(MSBuildThisFileDirectory)MicrosoftOpenXRPlugin.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)UnityOpenXR.dll" />
-    <None Include="$(MSBuildThisFileDirectory)UnityOpenXR.pdb" />
-    <None Include="$(MSBuildThisFileDirectory)openxr_loader.dll" />
-    <None Include="$(MSBuildThisFileDirectory)openxr_loader.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(OutDir)GameAssembly.dll" />
+    <None Include="$(OutDir)GameAssembly.pdb" />
+    <None Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(UnityPlayerConfiguration)\baselib.dll" />
+    <None Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(UnityPlayerConfiguration)\baselib_UAP_$(PlatformTarget)_$(UnityPlayerConfiguration)_il2cpp.pdb" />
   </ItemGroup>
 </Project>

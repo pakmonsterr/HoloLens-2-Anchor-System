@@ -22,3 +22,27 @@ C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor S
 C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MultipleQualifiersPerDimensionFound.txt
 C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\ProjectArchitectures.txt
 C:\MRTK Custom Anchor System Template\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\.winmd_cache\$UnityPlayer.winmd_637946994060000000.json
+C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\resources.pri
+C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\AppxManifest.xml
+C:\holoLens2AnchorSystem\Build_final\build\bin\ARM64\Master\MRTK Custom Anchor System Template.build.appxrecipe
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.AssemblyReference.cache
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.CopyComplete
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\ResourceHandlingTask.state
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MRTK Custom Anchor System Template.vcxproj.GenerateResource.Cache
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\priconfig.xml
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\priconfig.xml.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\unfiltered.layout.resfiles
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\unfiltered.layout.resfiles.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\filtered.layout.resfiles
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\filtered.layout.resfiles.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\excluded.layout.resfiles
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\excluded.layout.resfiles.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\resources.resfiles
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\resources.resfiles.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\pri.resfiles
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\pri.resfiles.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\qualifiers.txt
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\qualifiers.txt.intermediate
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\MultipleQualifiersPerDimensionFound.txt
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\ProjectArchitectures.txt
+C:\holoLens2AnchorSystem\Build_final\build\obj\MRTK Custom Anchor System Template\ARM64\Master\.winmd_cache\$UnityPlayer.winmd_637946994060000000.json
